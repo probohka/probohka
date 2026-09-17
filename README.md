@@ -1,4 +1,4 @@
-## Hi, I'm Anrei 👋
+## Hi, I'm Andrei 👋
 
 Data-focused developer, currently sharpening my SQL and database skills through hands-on practice.
 
