@@ -11,7 +11,7 @@ Data-focused developer, currently sharpening my SQL and database skills through 
 
 **Tools (myHackerrank):** PostgreSQL · SQL · Docker · Git
 
-**Tools (imdbProject):** MongoDB · Python · Git
+**Tools (IMDB-Project):** Python (requests, pandas, pymongo) · MongoDB Atlas + MongoDB Charts · GitHub Actions.
 
 
 📫 probohka@gmail.com
