@@ -10,6 +10,7 @@ Data-focused developer, currently sharpening my SQL and database skills through 
 
 
 **myHackerrank Tools:** PostgreSQL · SQL · Docker · Python · Git
+
 **imdbProject Tools:** PostgreSQL · SQL · MongoDB · Docker · Python · Git
 
 
