@@ -9,9 +9,9 @@ Data-focused developer, currently sharpening my SQL and database skills through 
 - 🎬 Check out [imdbProject](https://github.com/probohka/imdbProject) — an IMDb data pipeline (Python + MongoDB Atlas) that loads movie data and powers dashboards in MongoDB Charts
 
 
-**myHackerrank Tools:** PostgreSQL · SQL · Docker · Python · Git
+**Tools (myHackerrank):** PostgreSQL · SQL · Docker · Python · Git
 
-**imdbProject Tools:** PostgreSQL · SQL · MongoDB · Docker · Python · Git
+**Tools (imdbProject):** PostgreSQL · SQL · MongoDB · Docker · Python · Git
 
 
 📫 probohka@gmail.com
