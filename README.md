@@ -2,8 +2,8 @@
 
 Data Analyst focused on SQL, database design, and building data pipelines for analytics.
 
-- 🔍 Solid SQL fundamentals — joins, aggregations, window functions, CTEs, query optimization
 - 📊 Turn raw data into dashboards and BI-ready datasets (MongoDB Charts)
+- 🔍 Solid SQL fundamentals — joins, aggregations, window functions, CTEs, query optimization
 - 🐳 Containerized local dev environments with Docker & Docker Compose
 - 🐍 Automate data collection and processing with Python
 - 📌 myHackerrank — a Dockerized PostgreSQL sandbox with SQL solutions organized by topic
