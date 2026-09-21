@@ -6,8 +6,8 @@ Data Analyst focused on SQL, database design, and building data pipelines for an
 - 🔍 Solid SQL fundamentals — joins, aggregations, window functions, CTEs, query optimization
 - 🐳 Containerized local dev environments with Docker & Docker Compose
 - 🐍 Automate data collection and processing with Python
-- 📌 myHackerrank — a Dockerized PostgreSQL sandbox with SQL solutions organized by topic
-- 🎬 IMDb-Project — an end-to-end data pipeline (Python + MongoDB Atlas) ingesting IMDb datasets and powering analytics dashboards in MongoDB Charts
+- 📌 [myHackerrank](https://github.com/probohka/myHackerrank) — a Dockerized PostgreSQL sandbox with SQL solutions organized by topic
+- 🎬 [IMDb-Project](https://github.com/probohka/IMDb-Project) — an end-to-end data pipeline (Python + MongoDB Atlas) ingesting IMDb datasets and powering analytics dashboards in MongoDB Charts
 
 **Tools (myHackerrank):** PostgreSQL · SQL · Docker · Git
 
