@@ -1,6 +1,6 @@
 ## Hi, I'm Andrei 👋
 
-Data Analyst focused on SQL, database design, and building data pipelines for analytics.
+I focused on SQL, database design, and building data pipelines for analytics.
 
 - 📊 Turn raw data into dashboards and BI-ready datasets (MongoDB Charts)
 - 🔍 Solid SQL fundamentals — joins, aggregations, window functions, CTEs, query optimization
